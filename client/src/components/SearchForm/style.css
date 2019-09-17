@@ -1,0 +1,12 @@
+form{
+    background: lightblue;
+    border-radius: 15px;
+}
+.form-control{
+    margin-left: 20px;
+    width: 95%
+}
+.submitBtn{
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
